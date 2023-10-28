@@ -33,6 +33,9 @@
 - Communication : <span><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Tistory-FF6347?style=flat&logo=blogger&logoColor=white"/></span>
+- Certificate : 
+  <span><img src="https://img.shields.io/badge/정보처리기사-00A3E0?style=flat"/></span>
+  <span><img src="https://img.shields.io/badge/1종 보통 운전면허증-FFA500?style=flat"/></span>
 
 
 ## ✏️ Blog For Learning - <a href="https://hel5.tistory.com">Here</a>
