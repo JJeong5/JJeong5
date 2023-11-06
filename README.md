@@ -42,4 +42,7 @@
 
 ## ✏️ Blog For Learning - <a href="https://hel5.tistory.com">Here</a>
 
+
 ## 📝 Portfolio Website - <a href="https://ojh-portfolio.netlify.app/">Here</a>
+![image](https://github.com/JJeong5/JJeong5/assets/92209877/38ddd4ec-5a8b-409f-8152-a8ab93f4aa65)
+
