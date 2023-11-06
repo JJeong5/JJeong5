@@ -1,6 +1,6 @@
 # Welcome To My GitHub!
 
-![Anurag's GitHub stats](https://github-readme-stats-sand-six-91.vercel.app/api?username=JJeong5&show_icons=true&count_private=false&line_height=24&theme=dracula&hide=stars)
+![Anurag's GitHub stats](https://github-readme-stats-sand-six-91.vercel.app/api?username=JJeong5&show_icons=true&include_all_commits=true&count_private=true&line_height=24&theme=dracula&hide=stars)
 ![Top Langs](https://github-readme-stats-sand-six-91.vercel.app/api/top-langs/?username=JJeong5&layout=compact&theme=dracula)
 
 ## 🙋‍♂️ Personal Info
