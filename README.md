@@ -7,7 +7,7 @@
 - Oh Jeong Ho
 - Kangwon National University (KNU)
 - Computer Science and Engineering (CSE) 18
-- Jeongho4048@gmail.com
+- jeongho4048@gmail.com
 
 ## 🔨 Technology Stacks
 - Frontend : <span><img src="https://img.shields.io/badge/HTML-e34f26?style=flat&logo=html5&logoColor=white"/></span>
