@@ -16,11 +16,12 @@
 <span><img src="https://img.shields.io/badge/React-61dafb?style=flat&logo=react&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Recoil-3474DE?style=flat&logo=recoil&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white"/></span>
 - Backend : <span><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/SQLAlchemy-333333?style=flat&logo=sqlalchemy&logoColor=white"/></span>
 - Mobile App : <span><img src="https://img.shields.io/badge/React Native-61dafb?style=flat&logo=react&logoColor=white"/></span><br/>
 - Deployment : <span><img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/VMware-607078?style=flat&logo=vmware&logoColor=white"/></span>
@@ -28,6 +29,7 @@
 <span><img src="https://img.shields.io/badge/Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Apache HTTP Server-D22128?style=flat&logo=apache&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white"/></span>
 - Version Control : <span><img src="https://img.shields.io/badge/Git-f05032?style=flat&logo=git&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></span>
 - Communication : <span><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white"/></span>
@@ -40,4 +42,4 @@
 
 ## ✏️ Blog For Learning - <a href="https://hel5.tistory.com">Here</a>
 
-## 📝 Portfolio Website - <a href="">Here</a>
+## 📝 Portfolio Website - <a href="https://ojh-portfolio.netlify.app/">Here</a>
